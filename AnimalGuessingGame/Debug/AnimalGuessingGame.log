@@ -1,0 +1,3 @@
+﻿  AnimalGuessingGame.cpp
+C:\Users\Oliver\source\repos\AnimalGuessingGame\AnimalGuessingGame\AnimalGuessingGame.cpp(73): warning C4715: 'PromptUser': not all control paths return a value
+  AnimalGuessingGame.vcxproj -> C:\Users\Oliver\source\repos\AnimalGuessingGame\Debug\AnimalGuessingGame.exe
